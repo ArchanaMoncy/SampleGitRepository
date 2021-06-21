@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-03T18:23:39 IST" name="Default suite" finished-at="2021-06-03T18:24:55 IST" duration-ms="75598">
+    <groups>
+    </groups>
+    <test started-at="2021-06-03T18:23:39 IST" name="Default test" finished-at="2021-06-03T18:24:55 IST" duration-ms="75598">
+      <class name="DEmo.Program1">
+        <test-method is-config="true" signature="Base()[pri:0, instance:DEmo.Program1@2dde1bff]" started-at="2021-06-03T18:23:39 IST" name="Base" finished-at="2021-06-03T18:23:45 IST" duration-ms="5488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Base -->
+        <test-method signature="login()[pri:1, instance:DEmo.Program1@2dde1bff]" started-at="2021-06-03T18:23:45 IST" name="login" finished-at="2021-06-03T18:24:17 IST" duration-ms="32432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:DEmo.Program1@2dde1bff]" started-at="2021-06-03T18:24:17 IST" name="exit" finished-at="2021-06-03T18:24:18 IST" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="Base()[pri:0, instance:DEmo.Program1@2dde1bff]" started-at="2021-06-03T18:24:18 IST" name="Base" finished-at="2021-06-03T18:24:21 IST" duration-ms="2844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Base -->
+        <test-method signature="homepage()[pri:2, instance:DEmo.Program1@2dde1bff]" started-at="2021-06-03T18:24:21 IST" name="homepage" finished-at="2021-06-03T18:24:54 IST" duration-ms="32462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:DEmo.Program1@2dde1bff]" started-at="2021-06-03T18:24:54 IST" name="exit" finished-at="2021-06-03T18:24:55 IST" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- DEmo.Program1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
